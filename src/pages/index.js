@@ -124,7 +124,7 @@ const IndexPage = () => {
   return (
     <Layout pageName="home">
       <Helmet>
-        <title>Home Page</title>
+        <title>Covid-19 Live Stats</title>
       </Helmet>
 
       <Map {...mapSettings} />
@@ -134,7 +134,7 @@ const IndexPage = () => {
         <p><strong>Confirmed Cases | Deaths | Recoveries</strong></p>
         <p>Stay aware of the latest information on the COVID-19 outbreak, available on the WHO website and through your national and local public health authority. Most people who become infected experience mild illness and recover, but it can be more severe for others. Take care of your health and protect others by doing the following:</p>
         <p>
-          <strong>Developed by Kamal Vasamsetti</strong>
+          <strong>Developed by Kamal Vasamsetti. Visit my Website <a href="https://www.mycoinvest.tech">myCoinVest</a></strong>
         </p>
       </Container>
     </Layout>
